@@ -3,8 +3,8 @@ name: ProjectContext
 type: c4-project
 description: This is a sample project configuration for C4 model generation.
 children:
-- id: 4ac04730-176c-4743-8bcd-fd1e46f07bd7
-  type: software-system
-- id: 2f025b49-deb8-43cc-ac76-648028c798bc
-  type: person
+  - id: 4ac04730-176c-4743-8bcd-fd1e46f07bd7
+    type: software-system
+  - id: 2f025b49-deb8-43cc-ac76-648028c798bc
+    type: person
 tenantId: 5f37364f-201e-47ea-2e89-08dd02619fda
